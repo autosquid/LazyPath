@@ -4,7 +4,7 @@ a short python script which can backup &amp; restore your PATH environment varia
 
 ## Usage
 ### 1. backup your %PATH%
-    python lzEnv.py backup [backup\_file_name]
+    python lzEnv.py backup [backup_file_name]
 if no backup\file_name given, will use current time as the name
 ### 2. restore %PATH% from backups
 _run this script with administrator's privilege_
